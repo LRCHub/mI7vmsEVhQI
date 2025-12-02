@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "sekisei inko",
+  "base_artist": "kurayamisaka",
+  "createdAt": "2025-12-02T01:42:31.110196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "sekisei inko",
+      "artist": "kurayamisaka",
+      "has_synced": false,
+      "path": "select/01_sekisei_inko_kurayamisaka.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sekisei inko",
+      "artist": "kurayamisaka",
+      "has_synced": false,
+      "path": "select/pl_01_sekisei_inko_kurayamisaka.txt"
+    }
+  ]
+}
